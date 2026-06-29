@@ -13,7 +13,7 @@ AI & Data Science Job Market Intelligence Dashboard
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Dashboard](https://hiresight-m9rgzqlfop3gjfsjcbatqj.streamlit.app)** *(Deploy link coming soon)*
+🔗 **[View Live Dashboard](https://hiresight-m9rgzqlfop3gjfsjcbatqj.streamlit.app)** 
 
 ---
 
